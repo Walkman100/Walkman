@@ -1,5 +1,4 @@
-HTTP redirect
-===
+# HTTP redirect
 
 This repo's only purpose is to redirect visitors from [Walkman100.GitHub.io](http://walkman100.github.io) to [Walkman100.github.io/Walkman](http://walkman100.github.io/Walkman/)
 
