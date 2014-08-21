@@ -34,8 +34,19 @@ h3, h4, h5, h6 {
 
 a {
   color:#39c;
-  font-weight:400;
-  text-decoration:none;
+  /* font-weight:400; */
+}
+a:link {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline overline;
+}
+a:active {
+    text-decoration: underline overline;
 }
 
 a small {
